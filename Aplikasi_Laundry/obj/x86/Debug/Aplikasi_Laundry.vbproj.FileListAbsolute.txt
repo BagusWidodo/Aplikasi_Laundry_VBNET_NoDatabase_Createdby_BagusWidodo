@@ -1,0 +1,9 @@
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.exe
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.pdb
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.xml
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.Form1.resources
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.Resources.resources
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.vbproj.GenerateResource.Cache
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.exe
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.xml
+D:\VB NET\MEDIA Pembelajaran\Aplikasi_Laundry\Aplikasi_Laundry\obj\x86\Debug\Aplikasi_Laundry.pdb
